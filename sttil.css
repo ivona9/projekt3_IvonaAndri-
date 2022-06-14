@@ -1,0 +1,67 @@
+@charset "utf-8";
+p ˙{
+	color:black;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 30px;
+	line-height: 40px;
+	width: 60%;
+	background-color:lightgoldenrodyellow;
+	padding: 40px;/* CSS Document */
+	
+}
+.paragraf2 {
+	color:darkslategrey;
+	background-color: rgba(206,221,119,1.00);
+	margin: 20px;
+	padding: 20px;
+	width: 40%;
+	
+}
+.novi_blok{
+	background-color: rgba(252,231,148,1.00);
+	padding: 20px;
+	margin: 20px;
+	width: 50%;
+	
+}
+
+.blok {
+	color: darkorange;
+	background-color: aquamarine;
+	padding: 20px;
+	width: 30%;
+	margin: 20px;
+}
+
+h1, h2
+{
+	font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, 'sans-serif';
+	color: hotpink;
+}
+
+.pozadina {
+	background-image: url("slike/pozadina.jpg")
+}
+.drugapozadina {
+	background-imagine:url("slike/poz2.jpg");
+}
+
+a:link {
+	
+color: paleturquoise;
+	background-color: palevioletred;
+	padding: 10px;
+}
+
+a:hover {
+	background-color: darkgrey;
+	
+}
+
+img {
+	height: 500px;
+	
+}
+
+
+
